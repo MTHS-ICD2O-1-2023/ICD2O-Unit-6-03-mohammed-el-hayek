@@ -11,8 +11,8 @@
  * Check service worker support"
 */
 if (navigator.serviceWorker) {
-  navigator.serviceWorker.register("/ICS2O-Unit-6-01-Osamah-Hasan/sw.js", {
-    scope: "/ICS2O-Unit-6-01-Osamah-Hasan/",
+  navigator.serviceWorker.register("/ICS2O-Unit-6-01-Mohammed-El-Hayek/sw.js", {
+    scope: "/ICS2O-Unit-6-01-Mohammed-EL-Hayek/",
   })
 }
 
